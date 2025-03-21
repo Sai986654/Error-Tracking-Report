@@ -84,8 +84,10 @@ The fifth page allows users to raise an incident to track any of the errors:
 **Tabs**: Integration Overview, Error Details, Q&A, Rate SNOW
 
 **Data Preparation**: 
-To fetch the data from outlook mails we can use power automate and have a trigger as when a new email arrived and can create an automated flow
+To fetch the data from outlook mails we can use power automate and have a trigger as when a new email arrived and can create an automated flow.
+
 <img width="297" alt="image" src="https://github.com/user-attachments/assets/8b19e4b1-02cd-4cbc-8063-30d4fb992249" />
+
 This fetched data has been stored in an excel in some sharepoint location in the cloud and the same excel has been used in powerBi to give insights on the data.
 
 *An external link was removed to protect your privacy.* 
