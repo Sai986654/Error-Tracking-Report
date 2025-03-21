@@ -2,13 +2,6 @@
 
 This repository contains a Power BI report that tracks integration errors between two systems. The report helps in monitoring and analyzing the errors to ensure smooth data transfer.
 
-**Data Preparation**: 
-To fetch the data from outlook mails we can use power automate and have a trigger as when a new email arrived and can create an automated flow.
-
-<img width="297" alt="image" src="https://github.com/user-attachments/assets/8b19e4b1-02cd-4cbc-8063-30d4fb992249" />
-
-This fetched data has been stored in an excel in some sharepoint location in the cloud and the same excel has been used in powerBi to give insights on the data.
-
 ## Overview
 
 - **Project**: Data transfer between two systems
@@ -25,6 +18,14 @@ This fetched data has been stored in an excel in some sharepoint location in the
 - Page Navigator
 - Navigator Buttons
 - Other visualizations
+
+
+**Data Preparation**: 
+To fetch the data from outlook mails we can use power automate and have a trigger as when a new email arrived and can create an automated flow.
+
+<img width="297" alt="image" src="https://github.com/user-attachments/assets/8b19e4b1-02cd-4cbc-8063-30d4fb992249" />
+
+This fetched data has been stored in an excel in some sharepoint location in the cloud and the same excel has been used in powerBi to give insights on the data.
 
 ## First Page
 ![image](https://github.com/user-attachments/assets/f3c0723d-a54e-4cb9-a373-60232feabbf9)
