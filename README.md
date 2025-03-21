@@ -47,6 +47,7 @@ The second page offers a detailed analysis of integration errors, featuring:
 
 ## Third Page
 ![image](https://github.com/user-attachments/assets/5dd5d92c-17ec-4416-88c8-64665599aa21)
+![image](https://github.com/user-attachments/assets/a6eba7ac-2da5-45eb-88d3-e21e4089168c)
 
 The third page focuses on Error Details and trend analysis with:
 
@@ -62,7 +63,7 @@ The third page focuses on Error Details and trend analysis with:
   - **Search Failure Reason**: A search bar for searching specific failure reasons.
 - **Detailed View Button**: Provides a more in-depth analysis or additional details when clicked.
 
-**Views Used**: ErrorDetailsView, ErrorCategoryView, ErrorTrendView
+**Views Used**: ErrorDetailsView, ErrorCategoryView, ErrorTrendView, Bookmarks and Selection
 
 ## Fourth Page
 ![image](https://github.com/user-attachments/assets/05366a65-c650-46da-b8ef-44b13413c237)
